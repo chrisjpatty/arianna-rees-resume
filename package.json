@@ -25,7 +25,7 @@
     "react-markdown": "^3.1.0",
     "react-moment": "^0.7.0",
     "react-router": "^4.2.0",
-    "react-static": "^5.1.10",
+    "react-static": "^7.6.2",
     "react-static-plugin-emotion": "^1.0.5"
   },
   "devDependencies": {
